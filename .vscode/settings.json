@@ -15,4 +15,8 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "editor.fontSize": 12,
+   "editor.tabSize": 6,
+   "editor.accessibilityPageSize": 50,
+   "editor.inlayHints.maximumLength": 123,
 }
